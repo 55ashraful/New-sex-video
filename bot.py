@@ -1,7 +1,7 @@
 from telegram import Update
 from telegram.ext import ApplicationBuilder, MessageHandler, filters, ContextTypes
 
-BOT_TOKEN = "8792040240:AAGNb3Uo6CO7nWyLX137H-PrZkqcPFC3u78"
+BOT_TOKEN = "8990515937:AAHa04E6Vd-7BGS9PfxLreFE2cqkz0VTKKE"
 
 # ভিডিওগুলো জমা রাখার জন্য একটি ডিকশনারি (মেমোরি ডাটাবেজ)
 # ফরম্যাট: {"ভিডিওর নাম (ছোটহাতে)": "চ্যানেলের মেসেজ আইডি বা ফাইল"}
